@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sc_filter_bar_turn",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_filter_bar_turn",
+  "parent":{
+    "name":"FiltersDraw",
+    "path":"folders/Scripts/FiltersDraw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

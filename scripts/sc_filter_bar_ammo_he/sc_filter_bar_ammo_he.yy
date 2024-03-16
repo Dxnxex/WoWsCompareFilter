@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sc_filter_bar_ammo_he",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_filter_bar_ammo_he",
+  "parent":{
+    "name":"FiltersDraw",
+    "path":"folders/Scripts/FiltersDraw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

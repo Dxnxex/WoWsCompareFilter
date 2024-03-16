@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sc_filter_ship_ammo_he",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_filter_ship_ammo_he",
+  "parent":{
+    "name":"Results",
+    "path":"folders/Scripts/Results.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

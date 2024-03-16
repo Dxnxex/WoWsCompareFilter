@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sc_filter_ship_wheel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_filter_ship_wheel",
+  "parent":{
+    "name":"Results",
+    "path":"folders/Scripts/Results.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
