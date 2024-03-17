@@ -19,7 +19,7 @@ Detection="11.7"
 Caliber="203"
 Battery="4"
 Barrels="2"
-Rotation="5"
+Rotation="7"
 Dispersion="116"
 [Amunition]
 HE="1"
