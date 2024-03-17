@@ -5,7 +5,6 @@ function sc_ship_init(argument0,argument1){
 
 	ship_class = argument0;
 	ship_tier = argument1;
-	
 	ship_number +=1;
 		
 	var _c = argument0;
