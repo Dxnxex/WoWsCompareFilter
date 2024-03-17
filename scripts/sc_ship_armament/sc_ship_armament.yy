@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sc_ship_armament",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_ship_armament",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

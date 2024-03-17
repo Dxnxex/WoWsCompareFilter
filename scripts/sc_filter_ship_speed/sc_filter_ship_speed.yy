@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sc_filter_ship_speed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_filter_ship_speed",
+  "parent":{
+    "name":"Results",
+    "path":"folders/Scripts/Results.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
