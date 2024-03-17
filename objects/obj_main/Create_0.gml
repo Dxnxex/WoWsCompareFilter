@@ -1,6 +1,7 @@
 sc_filter_start();	
 sc_ship_start();
 
+//-----Ships loading from included files------
 _loading_completed = 0;
 
 
@@ -8,13 +9,8 @@ ship_cruisers[0] = "";
 ship_cruisers_number = 0;
 ship_cruiser_download = noone;
 
-
-directory_destroy(working_directory + string("Cruisers"));
-var _test = http_get_file("https://raw.githubusercontent.com/Dxnxex/WoWsCompareFilter/main/Cruisers/Cruisers.txt",working_directory + string("Cruisers/Cruisers.txt"));
-alarm[0] = 30;
-
-
-
+event_user(0);
+show_debug_message(string("Ships - Start - Included Files ")); 
 /*
 
 
